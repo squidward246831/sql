@@ -6,3 +6,6 @@ INSERT INTO flights (orgin, destanation, duration, departure, arrival, plane, ai
 INSERT INTO flights (orgin, destanation, duration, departure, arrival, plane, airline, pilot)VALUES('LIMA', 'NEW YORK',455, 300, 1055, 021374, 'Alienways', 'Bob');
 INSERT INTO flights (orgin, destanation, duration, departure, arrival, plane, airline, pilot)VALUES('DUBAI', 'NEW YORK', 852, 900, 600, 829364, 'National Flights', 'Ben');
 INSERT INTO flights (orgin, destanation, duration, departure, arrival, plane, airline, pilot)VALUES('CHICAGO', 'HOUSTON',160, 230, 310, 734681, 'Domestic Flights', 'George');
+INSERT INTO flights (orgin, destanation, duration, departure, arrival, plane, airline, pilot)VALUES('TOKYO',   'SACRAMENTO'  , 680 ,       330 ,    1030 , 443612 ,'Pacific Airway','Angie');
+INSERT INTO flights (orgin, destanation, duration, departure, arrival, plane, airline, pilot)VALUES('MEMPHIS', 'GEORGIA', 000, 000, 000, 238495, 'Domestic Flights', 'Charlie');   
+
